@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # from plotext._utility import all_markers, colors
-# import argparse, sys, os
+import argparse, sys, os
 # import plotext as plt
 # try:
 #     import shtab
