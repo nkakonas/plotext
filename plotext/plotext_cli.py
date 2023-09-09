@@ -239,6 +239,8 @@ def build_parser():
 
 
 def main(argv = None):
+    print('Hello')
+    exit()
     parser = build_parser()
     args = parser.parse_args(argv)
 
